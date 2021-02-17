@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Food App 2',
+      title: 'Food App',
       theme: ThemeData(
         accentColor: kPrimaryColor,
         scaffoldBackgroundColor: kBackgroundColor,
