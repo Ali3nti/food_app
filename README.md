@@ -1,6 +1,6 @@
-# Food_app
+# flutter_apps_exercise
 
-A new Flutter application.
+A new Flutter application for exercise.
 
 ## Getting Started
 
