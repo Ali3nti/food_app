@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
 
-class FeaturedFoods extends StatelessWidget {
-  const FeaturedFoods({
+class FeaturedApps extends StatelessWidget {
+  const FeaturedApps({
     Key key,
   }) : super(key: key);
 

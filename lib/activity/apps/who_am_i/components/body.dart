@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:food_app/constants.dart';
-import 'package:food_app/screens/details/components/icon_card.dart';
-import 'package:food_app/screens/details/components/title_and_price.dart';
+import 'package:flutter_apps_exercise/constants.dart';
+import 'package:flutter_apps_exercise/activity/details/components/icon_card.dart';
+import 'package:flutter_apps_exercise/activity/details/components/title_and_price.dart';
 
 import 'image_and_icons.dart';
 

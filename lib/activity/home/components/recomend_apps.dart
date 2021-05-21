@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:food_app/screens/details/details_screen.dart';
+import 'package:flutter_apps_exercise/screens/details/details_screen.dart';
 
 import '../../../constants.dart';
 
-class RecomendsFoods extends StatelessWidget {
-  const RecomendsFoods({
+class RecommendsApps extends StatelessWidget {
+  const RecommendsApps({
     Key key,
   }) : super(key: key);
 
